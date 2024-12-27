@@ -1,3 +1,3 @@
 # Demo
 First Demo Project
-Author - Manzoor Mustafa
+Author - Manzoor Mustafa (Zardari)
